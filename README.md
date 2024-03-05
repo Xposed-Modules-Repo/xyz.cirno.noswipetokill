@@ -4,7 +4,7 @@
 
 ## 兼容性
 
-仅在 MIUI 14 上测试通过。
+在 MIUI 14 以及基于 Android 14 的 HyperOS 上测试通过。
 
 如果在其他版本上正常工作，欢迎前往[源码仓库](https://github.com/dantmnf/NoSwipeToKill/issues)回报。
 
